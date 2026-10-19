@@ -1,4 +1,3 @@
-markdown
 # Subtitle Edit - Traducere în Limba Română (v5.x)
 
 Acest proiect conține fișierul de localizare actualizat `Romanian.json` pentru noul format introdus în **Subtitle Edit Versiunea 5**. 
